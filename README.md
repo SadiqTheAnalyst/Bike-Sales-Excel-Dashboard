@@ -18,4 +18,4 @@ This end-to-end data analytics project explores a retail dataset of 1,000 custom
 * `Bike sales dashboard.xlsx`: The complete workbook containing raw data, working sheets, pivot tables, and the interactive dashboard.
 
 ## Dashboard Preview
-![Dashboard Screenshot](YOUR_IMAGE_LINK_HERE)
+![Dashboard Screenshot](https://github.com/SadiqTheAnalyst/Bike-Sales-Excel-Dashboard/blob/main/Bike%20Sale%20dashboard.png)
